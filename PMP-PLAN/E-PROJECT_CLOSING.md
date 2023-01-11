@@ -47,7 +47,7 @@ FA co. managed to achieve the objectives initialized since the beginning of the 
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed to alert everyone in a fire caught area has been reduced. This can avoid unwanted panickness created in such scenarios as safety measures would be taken as soon as fire is detected.
+By creating this system, the time needed to alert everyone in a fire caught area has been reduced. This can avoid unwanted panic situations created in such scenarios as safety measures would be taken as soon as fire is detected.
 
 **6.0 TRANSITION PLAN**
 
