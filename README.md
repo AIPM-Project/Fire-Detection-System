@@ -1,7 +1,7 @@
 # Fire-Detection-System
-This is a project that detect fire. This project uses Artificial Intelligence(AI) technique such as Deep Learning(DL) and Convolutional Neural Network(CNN).
+This is a project that detect fire. This project uses Artificial Intelligence (AI) technique such as Deep Learning (DL) and Convolutional Neural Network (CNN).
 
-The project is developed by following Project Management Plan(PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure(WBS) is used to manage the project.
+The project is developed by following Project Management Plan (PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure (WBS) is used to manage the project.
 
 The PMP-Plan developed is simply a simulation collaboration between third party organization.
 
