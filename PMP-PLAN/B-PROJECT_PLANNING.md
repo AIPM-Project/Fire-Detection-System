@@ -9,6 +9,9 @@ A part of WBS in the form of gantt chart is shown below:
 
 ![WBS](https://user-images.githubusercontent.com/85623457/211861925-6c97e135-79c8-4153-a2c4-e754814ff8a5.png)
 
+![WBS2](https://user-images.githubusercontent.com/85623457/211886946-bc436810-7832-4262-95c5-d083ff1a0ecd.png)
+
+
 For the Fire Detection System Project, the task of the WBS for the system is represented as the following below:
 
 
