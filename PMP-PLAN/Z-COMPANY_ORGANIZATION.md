@@ -49,19 +49,3 @@ Responsiblity:
 2. Create the policy for the company to unsure a safe and secure development and production environment
 3. Communicate with all levels to make sure the ideas and project are able to be delivered
 4. Manage the technical staff available in the company and seprate the task based on their expertise
-
-
-<br>
-
-**CHIEF FINANCIAL OFFICIAL (CFO)**
-
-<img src="assets/wenxiang1.jpeg" width="180" height="auto" />
-
-**TAN WEN XIANG**
-
-Responsiblity:
-1. Ensure the project does not exceed the maximum budget allocations
-2. Do reporting and accounting on the cashflow of the project and company
-3. Communicate with all levels to find out how much budget to be allocated to each department
-4. Report to CEO if there are any budget issues
-5. Procurement Manager
