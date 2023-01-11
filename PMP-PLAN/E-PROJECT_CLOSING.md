@@ -5,10 +5,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/customer acceptance form.png" width="100%">
+<img src="assets/customer acceptance form.jpg" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.svg" width="100%">
+<img src="assets/lessons learned.jpg" width="100%">
 
 
 #### 3. Final Project Report
