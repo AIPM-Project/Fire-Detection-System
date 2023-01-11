@@ -41,7 +41,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="assets/daniel.jpeg" width="200" height="auto" />
+<img src="assets/daniel.jpg" width="200" height="auto" />
 
 **DANIAL SUFFIAN BIN RAMLAN**
 
