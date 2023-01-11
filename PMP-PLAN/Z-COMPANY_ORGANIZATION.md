@@ -1,4 +1,5 @@
-# ABOUT FA co.
+# ABOUT FIRE ALARM co.
+<img src="assets/logo.png" width="200" height="auto" />
 This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
 
 Based in Malaysia, Malacca. 
