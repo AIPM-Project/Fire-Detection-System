@@ -1,27 +1,55 @@
-# Fire-Detection-System
-This is a project that detect fire. This project uses Artificial Intelligence(AI) technique such as Deep Learning(DL) and Convolutional Neural Network(CNN).
+# Fire Detection
 
-The project is developed by following Project Management Plan(PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure(WBS) is used to manage the project.
+Fire detection only using visiual inspection
 
-The PMP-Plan developed is simply a simulation collaboration between third party organization.
+#### YOLO v4 :
+YOLO is short for You Only Look Once. It's state-of-the-art, real-time object detection algorithm that can recognize multiple objects in a single frame. YOLO recognizes objects more precisely and faster than other recognition systems.
 
-# Project Management Plan
-Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
 
-Project Summary give a brief overview of the project objectives and team members details.
+#### Classes used for training :
+- Fire
 
-Project Planning: [Project Planning](PMP-PLAN/B-PROJECT_PLANNING.md)
+#### Dataset gathering and image annotation:
 
-Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
+labeling tool: [![@labelImg](https://img.shields.io/badge/LabelImg-%20-blue)](https://github.com/tzutalin/labelImg)
+## Loss and mAP Chart 
+<p align="center"><img src="https://github.com/ll-ysh-ll/real-time-fire-detection-and-alert-system/blob/master/Screenshot/chart_yolov4-custom.png" width="500"></p>
 
-Project Implementation: [Project Implementation](PMP-PLAN/C-PROJECT_IMPLEMENTATION.md)
 
-Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
 
-Project Execution: [Project Execution](PMP-PLAN/D-PROJECT_EXECUTION.md)
 
-Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
+## Screenshots
 
-Project Closing: [Project Closing](PMP-PLAN/E-PROJECT_CLOSING.md)
+#### Fire Detection on Images
 
-Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
+<p align="center">
+<img src="https://github.com/ll-ysh-ll/real-time-fire-detection-and-alert-system/blob/master/Screenshot/fire_screenshot_1.jpg" width="575">
+<img src="https://github.com/ll-ysh-ll/real-time-fire-detection-and-alert-system/blob/master/Screenshot/fire_screenshot_2.jpg" width="575">
+<img src="https://github.com/ll-ysh-ll/real-time-fire-detection-and-alert-system/blob/master/Screenshot/fire_screenshot_3.jpg" width="575"></p>
+
+#### Email Alert
+<img src="https://github.com/ll-ysh-ll/real-time-fire-detection-and-alert-system/blob/master/Screenshot/email_alert.png">
+
+
+## To-do
+
+- [x]  Dataset Gathering
+- [x]  Image Annotation
+- [x]  Model Training
+- [x]  E-mail Alert
+- [ ]  Deployment Using Webapp
+
+
+
+## Reference
+
+ - [AlexeyAB darknet](https://github.com/AlexeyAB/darknet)
+ - [The AI Guy](https://github.com/theAIGuysCode)
+ 
+## Contact me
+
+In any case if you need help feel free to contact me anytime
+
+ - yashkolekar008@gmail.com
+
+ - [LinkedIn](https://www.linkedin.com/in/yash-kolekar-559492116/)
