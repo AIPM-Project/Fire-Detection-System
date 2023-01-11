@@ -1,6 +1,6 @@
 # PROJECT OVERVIEW
 
-## D EXECUTING THE PROJECT
+## D. EXECUTING THE PROJECT
 **Project Design and Coding** <br><br>
 Flowchart design: <img width="241" alt="flowchart" src="https://user-images.githubusercontent.com/18380990/211846179-9d4614ef-0c9b-4469-abec-23e1cecdd3eb.png">
 
