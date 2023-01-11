@@ -12,7 +12,7 @@ Project Summary give a brief overview of the project objectives and team members
 
 [Project Planning](PMP-PLAN/B-PROJECT_PLANNING.md)
 
-Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
+Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure (WBS) is documented in this phase.
 
 [Project Implementation](PMP-PLAN/C-PROJECT_IMPLEMENTATION.md)
 
