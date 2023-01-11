@@ -9,15 +9,17 @@ As a first step of it, a fire detection system in the factory will be installed 
 
 ### Customer:  IOI Corporation Berhad (IOI)
 
+### Objectives:
++ To develop an artificial intelligence system that are able to detect fire 
++ To develop a system that are able to recognize the visual of fire
++ To develop an application programming interface (API) for the future ease of use as the integration module
+
 ### Team Members:
 + NAGA NARVEEN A/L SIVAJI GANESAN B032010180
 + MUHAMMAD ZUL HANIF BIN NORDIN B032020021 
 + DANIAL SUFFIAN BIN RAMLAN B032020013
 
-### Objectives:
-+ To develop an artificial intelligence system that are able to detect fire 
-+ To develop a system that are able to recognize the visual of fire
-+ To develop an application programming interface (API) for the future ease of use as the integration module
+
 
 <br><br><br>
 ##### Next: [Project Planning](B-PROJECT_PLANNING.md)
