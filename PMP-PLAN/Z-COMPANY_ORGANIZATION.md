@@ -5,7 +5,7 @@ This company is setup by a group of AI enthusiastic students in UTeM. They are p
 Based in Malaysia, Malacca. 
 
 ## OUR MISSION
-BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
+BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE (AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
 
 ## Innovation
 We change the way of how people think about AI and change their life habit. 
