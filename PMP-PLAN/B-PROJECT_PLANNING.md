@@ -52,8 +52,17 @@ The picture image below is the example of the project scope statement documentat
 
 ![RAM2](https://user-images.githubusercontent.com/85623457/211955754-247927ab-203e-4019-9f07-2d28ef787017.png)
 
+### Roles and Responsibilities
 
-
+|Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
+|:-----:|:------:|------|
+| Project Manager | Naga Narveen |The Project Manager is accountable to the Project Director for all the project office management related activities. Project manager will navigate the Fire Detection System Project until it is completed |
+| Procurement Manager | Danial Suffian | The Procurement Manager oversees and manages the generation of solicitation documents.Procurement Manager is responsible for integrating all the pieces and ensuring consistency and continuity throughout the entire procurement process and conforming to procurement standards, rules, and regulations. 
+| Risk Manager | Danial Suffian | The Risk Manager is responsible for managing and tracking risks and risk mitigation/contingencies on the project
+| Administrative Manager | Muhammad Zul Hanif | The Administrative Manager directs the administrative staff, coordinates tools and services training
+| Financial Analyst | Danial Suffian | The Financial Analyst is responsible for supporting the Administrative Manager by managing and calculating fire detection system project budgets and costs.
+| Project Scheduler | Muhammad Zul Hanif | The Project Scheduler responsible for coordinate and manage inputs to the plan includes tracking progress against project schedule, merging and identifying dependencies and risks that may be occured in the span of project development.
+| Quality Manager | Naga Narveen | The Quality Manager is responsible for overseeing and ensuring the fire detection system delivered in highest quality possible. The Quality Manager provides insight into the project and contractor methods of doing business by reviewing process and product activities for adherence to standards and plans|
 
 
 
