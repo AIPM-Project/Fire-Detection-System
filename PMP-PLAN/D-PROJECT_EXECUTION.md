@@ -7,8 +7,8 @@ Flowchart design: <br><br>
 
 ### **Description of the project coding and implementation**<br><br>
 Libraries and Packages required:<br><br>
-**Fire Detection System:** **Firstly,** we need to load our model from the pre-trained which created by Yash Kolekar. The requirement we need look like below: <br> ![image](https://user-images.githubusercontent.com/18380990/211868796-59ccea62-e836-400b-8dcc-eb74a1d415a7.png)<br><br>
-**Secondly,** we need to do video detection coding. Then, we need to import some library to our coding to use their library: <br>![image](https://user-images.githubusercontent.com/18380990/211884067-fc2d143e-dd90-487c-a83f-30bfa862097f.png)<br><br>
+**Fire Detection System:** **Firstly,** we need to load our model from the pre-trained which created by Yash Kolekar. The requirement we need look like below: <br><br> ![image](https://user-images.githubusercontent.com/18380990/211868796-59ccea62-e836-400b-8dcc-eb74a1d415a7.png)<br><br>
+**Secondly,** we need to do video detection coding. Then, we need to import some library to our coding to use their library: <br><br>![image](https://user-images.githubusercontent.com/18380990/211884067-fc2d143e-dd90-487c-a83f-30bfa862097f.png)<br><br>
 Then, we create function that can open a video for AI to see from camera.<br><br>![video_detection_function](https://user-images.githubusercontent.com/18380990/211887998-6bbe67c2-bcda-410b-bb50-73418b852e27.PNG) <br><br>
 Next, we setting the configuration: <br> <br>![video_detection_customize](https://user-images.githubusercontent.com/18380990/211888685-bb043653-810f-43a8-911c-3ef6630d9824.PNG) <br><br>
 Next, we do some coding to read all the datasets:<br><br>![video_detection_read](https://user-images.githubusercontent.com/18380990/211888841-95d8f920-23a2-4773-97e3-3d0df98ca10e.PNG)<br><br>
