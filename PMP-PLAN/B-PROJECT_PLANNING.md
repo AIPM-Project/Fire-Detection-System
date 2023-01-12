@@ -57,7 +57,7 @@ The picture image below is the example of the project scope statement documentat
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
 | Project Manager | Naga Narveen |The Project Manager is accountable to the Project Director for all the project office management related activities. Project manager will navigate the Fire Detection System Project until it is completed |
-| Procurement Manager | Danial Suffian | The Procurement Manager oversees and manages the generation of solicitation documents.Procurement Manager is responsible for integrating all the pieces and ensuring consistency and continuity throughout the entire procurement process and conforming to procurement standards, rules, and regulations. 
+| Procurement Manager | Danial Suffian | The Procurement Manager oversees and manages the generation of solicitation documents.Procurement Manager is responsible for integrating all the pieces and ensuring consistency and continuity throughout the entire procurement process according to procurement standards, rules, and regulations. 
 | Risk Manager | Danial Suffian | The Risk Manager is responsible for managing and tracking risks and risk mitigation/contingencies on the project
 | Administrative Manager | Muhammad Zul Hanif | The Administrative Manager directs the administrative staff, coordinates tools and services training
 | Financial Analyst | Danial Suffian | The Financial Analyst is responsible for supporting the Administrative Manager by managing and calculating fire detection system project budgets and costs.
