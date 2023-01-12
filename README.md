@@ -28,5 +28,6 @@ Project Closing indicate the end of the project lifecycle where the project need
 
 ## Sample Result
 ### Detect Fire
-<img src="PMP-PLAN/assets/fire_screenshot_3.jpg" width="100%">
+<img src="PMP-PLAN/assets/fire_screenshot_3.jpg" width="70%">
+<img src="PMP-PLAN/assets/fire.jpg" width="70%">
 
