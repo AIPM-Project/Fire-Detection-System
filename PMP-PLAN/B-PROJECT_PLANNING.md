@@ -48,6 +48,11 @@ The picture image below is the example of the project scope statement documentat
 
 ### Responsibility Assignment Matrix (RAM)
 
+**(R) Responsible:** The person(s) completing the task<br>
+**(A) Accountable:** The team member coordinating the actions, making decisions, and delegating to those responsible for the task<br>
+**(C) Consulted:** The person(s) who will be communicated with regarding decisions and tasks<br>
+**(I) Informed:** The person(s) who will be updated during the project and upon completion<br>
+
 ![RAM1](https://user-images.githubusercontent.com/85623457/211955731-6d4d8896-0def-407d-8350-a920d0990895.png)
 
 ![RAM2](https://user-images.githubusercontent.com/85623457/211955754-247927ab-203e-4019-9f07-2d28ef787017.png)
