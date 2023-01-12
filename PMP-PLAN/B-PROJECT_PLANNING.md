@@ -41,7 +41,7 @@ The picture image below is the example of the project scope statement documentat
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|----|-------|-----|
-|Quality <br> | When the fire is not detected in testing   |In testing phase for the system|Assign team members to collect the result data until a satisfiying result is ontained and consisten.|
+|Quality <br> | When the fire is not detected in testing   |In testing phase for the system|Assign team members to collect the result data until a satisfying result is obtained and consistent.|
 |Cost | The actual cost is higher than the estimated cost | When there are components price are higher than it usual price market| Financial analyst will be deployed to calculate all budgets to adapt for the system
 |Time | Project is unable to follow the planned milestone  |When there are many problems are not able to solve in a short time.| Changing role between member and all members must help other depending on the size of the problem.|
 
