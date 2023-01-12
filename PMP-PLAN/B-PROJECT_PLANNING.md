@@ -46,6 +46,13 @@ The picture image below is the example of the project scope statement documentat
 |Time | Project is unable to follow the planned milestone  |When there are many problems are not able to solve in a short time.| Changing role between member and all members must help other depending on the size of the problem.|
 
 
+### Responsibility Assignment Matrix (RAM)
+
+![RAM1](https://user-images.githubusercontent.com/85623457/211955731-6d4d8896-0def-407d-8350-a920d0990895.png)
+
+![RAM2](https://user-images.githubusercontent.com/85623457/211955754-247927ab-203e-4019-9f07-2d28ef787017.png)
+
+
 
 
 
