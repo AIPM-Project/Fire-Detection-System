@@ -7,9 +7,11 @@ The Gantt Chart is used to describe and document the project management life cyc
 
 A part of WBS in the form of gantt chart is shown below:
 
-![WBS](https://user-images.githubusercontent.com/85623457/211895215-afa08b78-d55d-4c98-b5ea-3ac58a28febb.png)
 
-![WBS2](https://user-images.githubusercontent.com/85623457/211895853-9343ac8e-4e1c-4e1c-b061-a61e99c25764.png)
+![WBS](https://user-images.githubusercontent.com/85623457/211947570-4f876dd4-8e8b-493c-be79-40189a7cadff.png)
+
+
+![WBS2](https://user-images.githubusercontent.com/85623457/211947579-8446b8fb-074d-42a0-b3e7-589bb44430a3.png)
 
 
 
