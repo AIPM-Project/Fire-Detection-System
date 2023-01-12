@@ -20,6 +20,14 @@ Then, we do component that need to be done.<br><br>![UI_component](https://user-
 ![UI_component_2](https://user-images.githubusercontent.com/18380990/211893388-699fe593-6f9c-4c11-b6b1-3042cae91536.PNG)<br><br>
 **Next step,** for extra decoration, we built downloading feature. <br><br>![download_animation](https://user-images.githubusercontent.com/18380990/211895179-5e302d74-3f27-49b8-96dc-11087d75074b.PNG)<br><br>
 **Finally,** we created coding that can detect how to strong fire is:-<br><br>![image_detection](https://user-images.githubusercontent.com/18380990/211895565-fe8f0fe7-4018-4f8e-bdd2-eeb723ea30ae.PNG)<br><br>
+**PROJECT RESULT**<br><br>
+List of result:-<br><br>
+<img src="https://user-images.githubusercontent.com/18380990/211953542-a85b05aa-b18e-4c47-bdf3-0e8020b60fb2.jpg" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/18380990/211953549-af2b7f98-a592-4dff-a1f8-bfe5142923aa.jpg" width="500" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/18380990/211953554-997c7f2b-2f49-4ac2-846f-5595fdf00f5a.jpg" width="500" height="300"><br><br>
+Email alert:-<br><br>![email_alert](https://user-images.githubusercontent.com/18380990/211953710-edcdc823-2aa8-4e1d-9861-aef1cd9b3daa.png)
+
+
 
 
 
