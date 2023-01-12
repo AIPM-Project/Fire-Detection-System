@@ -22,8 +22,8 @@ Then, we do component that need to be done.<br><br>![UI_component](https://user-
 **Finally,** we created coding that can detect how to strong fire is:-<br><br>![image_detection](https://user-images.githubusercontent.com/18380990/211895565-fe8f0fe7-4018-4f8e-bdd2-eeb723ea30ae.PNG)<br><br>
 ### **PROJECT RESULT**<br><br>
 List of result:-<br><br>
-<img src="https://user-images.githubusercontent.com/18380990/211953542-a85b05aa-b18e-4c47-bdf3-0e8020b60fb2.jpg" width="500" height="300">
-
+<img src="https://user-images.githubusercontent.com/18380990/211953542-a85b05aa-b18e-4c47-bdf3-0e8020b60fb2.jpg" width="70%">
+<img src="assets/fire_screenshot_3.jpg" width="70%">
 
 
 
